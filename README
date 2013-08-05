@@ -1,0 +1,8 @@
+CProcess
+========
+
+There was a time when I needed to start up and monitor Windows processes a lot.
+I ended up writing this process utility class for that purpose.
+
+I had been in the process of working on a string class at the time, and so this
+depends on it. Check it out at https://github.com/pnelson/cstringex.
